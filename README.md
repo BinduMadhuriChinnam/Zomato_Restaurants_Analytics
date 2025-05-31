@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that uncovers insights from Zomato’s restaurant data, including ratings, pricing, cuisines, and service availability across major Indian cities.
 
-![Dashboard Screenshot](images/zomato-dashboard-preview.png)
+![Dashboard Screenshot](zomato-dashboard-preview.png)
 
 
 ## ✨ Features
